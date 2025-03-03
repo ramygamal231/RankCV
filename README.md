@@ -1,6 +1,6 @@
 # RankCV
 
-![RankCV Logo](https://github.com/ramygamal231/NovaCare/blob/main/NovaCare%20Logo.png)
+![RankCV Logo](https://github.com/ramygamal231/RankCV/blob/main/RankCV%20Logo.png)
 
 ## 📄 May the Best Resume Win!
 
