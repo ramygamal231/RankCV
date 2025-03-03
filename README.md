@@ -9,4 +9,4 @@ RankCV is an AI-driven CV competition web application that allows users to uploa
 ## 🚀 **Why Choose RankCV?**
 - **🤖 AI-Powered:** Uses AI for fair and unbiased CV evaluations.
 - **⚡ Instant Feedback:** Our AI-driven tools offer emotional support through encouraging messages and guided exercises, helping children manage trauma and stress effectively. 
-- **Child-Centric Design:** Specifically designed for children aged 4–12, the platform offers an engaging, interactive, and culturally relevant experience that fosters both learning and resilience.
+- **🏆 Engaging & Competitive:** Transforms CV evaluation into an interactive competition.
