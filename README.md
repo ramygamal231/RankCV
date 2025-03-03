@@ -11,3 +11,8 @@ RankCV is an AI-driven CV competition web application that allows users to uploa
 - **⚡ Instant Feedback:** Fast and real-time CV ranking.
 - **🏆 Engaging & Competitive:** Transforms CV evaluation into an interactive competition.
 - **🚀 Career Boost:** Helps users improve their CVs by identifying areas for improvement.
+
+## 🌟 **Core Features**
+- **📊 Leaderboard Rankings:** Displays ranked CVs with scores.
+- **👍 Detailed Feedback:** Lists strengths, weaknesses, and reasoning behind scores.
+- **🖥️ User-Friendly UI:** Simple and engaging interface.
