@@ -20,3 +20,17 @@ RankCV is an AI-driven CV competition web application that allows users to uploa
 ## 🔜 **Coming Soon**
 - **⚙️ Custom Scoring Criteria:** Users can set specific evaluation parameters.
 - **📝 CV Optimization Suggestions:** AI-generated recommendations for improvement.
+
+## 🔧 **Technology Stack**
+
+- **Backend**:
+  - 🐍 Node.js – JavaScript runtime for backend services
+  - ⚡ Express.js – Web framework for building APIs
+  - 🧾 PDF-parse – Library for parsing and extracting text from PDF CVs
+  - 🤖 OpenAI GPT-4 API – AI-powered evaluations
+
+- **Frontend**:
+  - 📄 HTML5 – Markup for web content
+  - 🌐 React.js – Modern frontend framework
+  - 🎨 Tailwind CSS – Styling and UI components
+  - 🔌 FetchAPI – Handling API requests for real-time data
