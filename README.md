@@ -34,3 +34,10 @@ RankCV is an AI-driven CV competition web application that allows users to uploa
   - 🌐 React.js – Modern frontend framework
   - 🎨 Tailwind CSS – Styling and UI components
   - 🔌 FetchAPI – Handling API requests for real-time data
+
+## 👨‍💻 **Usage**
+1. 📥 Upload Your CV
+2. 🚀 Press "Start Competition"
+3. 📊 View Leaderboard
+4. 🔍 See Pros & Cons
+5. 🏆 Get Your Score
